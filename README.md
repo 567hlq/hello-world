@@ -1,3 +1,3 @@
 # hello-world
 my first
-I love :coffer: , :pizza: , and : dancer : .
+I love :coffer:, :pizza:, and :dancer:.
